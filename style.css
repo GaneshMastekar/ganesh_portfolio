@@ -2213,7 +2213,7 @@ footer{
   background-image: url("img/footer-bg-img.png");
   background-repeat: no-repeat;
   background-position: center;
-  background-size: 100% 100%;
+  background-size: cover;
   /* background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1)); */
   background-color: rgba(0, 0, 0, 0.5);
 }
